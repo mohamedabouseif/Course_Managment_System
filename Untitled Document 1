@@ -1,0 +1,35 @@
+-Hey ,There !
+1- log_in as Teacher
+2- log_in as student
+3- Exit
+
+*****if press 1 as teacher ********
+=>insert password !
+a- insert data(grade,note)
+b- Edit data
+c- show all data
+-->a :
+ -insert student user id?
+   insert grade
+-->b :
+ - insert student user name
+   insert new grade 
+-->c :
+    just , print all student's grades,names and user names  such a table
+==>in-correct password, Try again 
+
+**********if press 2 as student **************
+==>inser user name and password !
+
+a-show grade & notes
+b- Exit
+
+
+-->a:
+  - display grade and note
+--> b :
+  - exit to main window(teacher or student )
+==>in-correct username or password ,try again !  
+
+
+
