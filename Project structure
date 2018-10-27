@@ -1,0 +1,27 @@
+-Hey ,There !
+1- log_in as Teacher
+2- log_in as student
+3- Exit
+
+*****if press 1 as teacher ********
+=>insert password !
+a- insert data(grade,note)
+b- Edit data
+c- Delete student 
+d- search for ?
+e- exit 
+
+**********if press 2 as student **************
+==>insert your username !
+
+-student can see his grade  
+
+
+
+=> Note :
+Teacher username is  : m
+password  is : 123
+
+
+
+
